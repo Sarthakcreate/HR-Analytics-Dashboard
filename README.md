@@ -16,8 +16,9 @@ Gender Breakdown: Representation of the male-to-female employee ratio, helping t
 Attrition by Years at Company: Visualization of employee attrition based on tenure, providing insight into employee longevity.
 
 # Tech Stack 🛠️
-Power BI: For building the interactive dashboard and visuals.
-Excel: Used for data preprocessing, cleaning, and analysis before importing into Power BI.
+Power BI- For building the interactive dashboard and visuals.
+
+Excel- Used for data preprocessing, cleaning, and analysis before importing into Power BI.
 
 # Future Enhancements 🚀
 Predictive Analytics: Adding models to predict future attrition based on current trends.
